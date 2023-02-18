@@ -1,0 +1,50 @@
+[
+	{
+		"name": "iphone",
+		"price": 154,
+		"featured":true,
+		"company": "apple"
+	},
+	{
+		"name": "iphone10",
+		"price": 1154,
+		"featured":true,
+		"company": "apple"
+	},
+	{
+		"name": "m23",
+		"price": 154,
+		"company": "mi"
+	},
+	{
+		"name": "watch",
+		"price": 204,
+		"company": "apple"
+	},
+	{
+		"name": "watch10",
+		"price": 304,
+		"company": "apple"
+	},
+	{
+		"name": "s20",
+		"price": 404,
+		"featured":true,
+		"company": "samsung"
+	},
+	{
+		"name": "dell gaming",
+		"price": 501,
+		"company": "dell"
+	},
+	{
+		"name": "iphone14",
+		"price": 1543,
+		"company": "apple"
+	},
+	{
+		"name": "smart phone",
+		"price": 154,
+		"company": "samsung"
+	}
+]
